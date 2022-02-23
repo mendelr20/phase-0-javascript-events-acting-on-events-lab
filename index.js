@@ -30,4 +30,3 @@ function moveDodgerLeft() {
       }
   });
 
-document.body.appendChild(moveDodgerLeft, move)
